@@ -1,5 +1,5 @@
-
-#  SIC/XE Machine 
+#  SIC/XE Machine
+* language : C
 - project1 : Shell<br>
 - project2 : Assembler<br>
 - project3 : Linker&Loader
