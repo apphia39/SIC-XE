@@ -81,6 +81,6 @@ $ ./main.out
 <br>
 
 ### About writer
-  Author : 20181603, Minseon Kim<br>
-  Date   : 2021-03-09 ~ 2021-05-04
+- Author : 20181603, Minseon Kim<br>
+- Date   : 2021-03-09 ~ 2021-05-04
   
